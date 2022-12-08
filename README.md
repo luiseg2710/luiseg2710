@@ -7,6 +7,7 @@
 <a href="https://www.flaticon.com/free-icon/bootstrap_5968672?term=bootstrap&page=1&position=1&page=1&position=1&related_id=5968672&origin=style" target="_blank"> <img src="https://user-images.githubusercontent.com/83027075/178180097-0b5063d0-e9a9-47d2-981c-ffe71cd4f675.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+ <img src="http://www.w3.org/2000/svg" alt="next" width="40" height="40"/> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 
