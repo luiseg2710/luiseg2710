@@ -19,7 +19,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="vsc" width="40" height="40"/></a> <a href="https://www.flaticon.com/free-icon/visual-studio_906324"> 
 <img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40"/></a> <a href="https://nodejs.org/en/"> 
 <img src="https://bestofjs.org/logos/chakra-ui.dark.svg" alt="chakra" width="40" height="40"/></a> <a href="https://bestofjs.org/projects/chakra-ui"> 
-  <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="40"/></a> <a href="https://seeklogo.com/vector-logo/401278/miro"> 
+ <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="40"/></a> <a href="https://seeklogo.com/vector-logo/401278/miro"> 
 
 
 
